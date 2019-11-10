@@ -3,11 +3,9 @@
 }
 
 body {
-    /* margin-top: 7em; */
     display: flex;
     align-items: center;
     justify-content: center;
-    /* padding: 95px; */
     font: normal normal normal 1rem/1.6 Nunito Sans, Helvetica, Arial,
         sans-serif;
     color: #aaa;

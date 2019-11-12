@@ -4,33 +4,33 @@ Dinh's React drum machine
 ---
 
 ## Table of contents 
--[Description](#description)
--[Installation](#installation)
--[How to use](#how-to-use)
--[License](#installation)
+- [Description](#description)
+- [Installation](#installation)
+- [How to use](#how-to-use)
+- [License](#installation)
 
 ---
 
-##Desciption
+## Desciption
 A simple drum machine that can be played with mouse clicks or via the keyboard.
 
 ---
 
-##Installation
+## Installation
 
-1.Download respository
-2.Install dependencies with "npm install"
-3.Start project with "npm start". Make sure you are in the project's root folder where package.json file is located.
+1. Download respository
+2. Install dependencies with "npm install"
+3. Start project with "npm start". Make sure you are in the project's root folder where package.json file is located.
 
 ---
 
-##How to use
+## How to use
 
 Press the on-screen keypads with mouse or use keyboard keys (Q, W, E, A, S, D, Z, X, C).
 
 ---
 
-##License
+## License
 Copyright 2019. Dinh Tran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

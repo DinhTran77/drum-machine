@@ -1,14 +1,13 @@
-#Project Name
+# Project Name
 Dinh's React drum machine
 
 ---
 
-##Table of contents
--Description
--Installation
--How to use
--License
--Author Info
+## Table of contents 
+-[Description](#description)
+-[Installation](#installation)
+-[How to use](#how-to-use)
+-[License](#installation)
 
 ---
 
@@ -27,7 +26,7 @@ A simple drum machine that can be played with mouse clicks or via the keyboard.
 
 ##How to use
 
-Press the keypads with the mouse or use keyboard keys (Q, W, E, A, S, D, Z, X, C).
+Press the on-screen keypads with mouse or use keyboard keys (Q, W, E, A, S, D, Z, X, C).
 
 ---
 
@@ -42,6 +41,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-##Author Info
-
----

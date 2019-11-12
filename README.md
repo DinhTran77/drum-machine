@@ -3,6 +3,11 @@ Dinh's React drum machine
 
 ---
 
+# Live Preview
+https://dinh-drum-machine.herokuapp.com/
+
+---
+
 ## Table of contents 
 - [Description](#description)
 - [Installation](#installation)
@@ -11,7 +16,7 @@ Dinh's React drum machine
 
 ---
 
-## Desciption
+## Description
 A simple drum machine that can be played with mouse clicks or via the keyboard.
 
 ---

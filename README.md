@@ -4,18 +4,22 @@ Dinh's React drum machine
 ![Drum machine image](./src/images/drum-machine.PNG)
 ---
 
-# Live Preview
-https://dinh-drum-machine.herokuapp.com/
-
----
 
 ## Table of contents 
+- [Live preview](#live-preview) 
 - [Description](#description)
 - [Installation](#installation)
 - [How to use](#how-to-use)
 - [License](#installation)
 
 ---
+
+
+## Live Preview
+https://dinh-drum-machine.herokuapp.com/
+
+---
+
 
 ## Description
 A simple drum machine that can be played with mouse clicks or via the keyboard.

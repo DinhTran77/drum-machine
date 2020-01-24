@@ -1,5 +1,4 @@
-# Project Name
-React drum machine
+# React drum machine
 
 ![Drum machine image](./src/images/drum-machine.PNG)
 ---
